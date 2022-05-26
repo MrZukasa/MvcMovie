@@ -24,3 +24,6 @@
   - `--useDefaultLayout` setta il layout default per le viste
   - `--referenceScriptLibraries` librerie di script di riferimento nelle viste generate. Aggiunge _ValidationScriptsPartial per modificare e creare pagine.
   - `-sqlite` Flag per specificare se DbContext deve usare SQLite anziché SQL Server.
+
+  ![img](https://i.ibb.co/wdkzhcs/Cattura.png)
+  quando va a buon fine, questo è quello che si ottiene.
