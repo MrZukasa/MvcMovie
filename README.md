@@ -27,3 +27,10 @@
 
   ![img](https://i.ibb.co/wdkzhcs/Cattura.png)
   quando va a buon fine, questo è quello che si ottiene.
+- Una volta '***scaffoldato***' tutto, faccio una migration per creare il DB.
+  ```
+  dotnet ef migrations add InitialCreate
+  dotnet ef database update
+  ```
+- Una volta che tutto è stato creato, do una sistemata al routing e poi esamino il codice.
+- Apporto qualche modifica al file `Movie.cs`
